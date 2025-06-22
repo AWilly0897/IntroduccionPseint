@@ -1,0 +1,12 @@
+Copyright © 2025 AWilly0897
+
+Todos los derechos reservados.
+
+Este repositorio y su contenido, incluyendo código fuente, ejemplos, diagramas de flujo, documentación y estructura de archivos, han sido creados por AWilly0897.
+
+No se autoriza su copia, redistribución, modificación, uso comercial ni publicación parcial o total sin el consentimiento expreso del autor.
+
+Este proyecto está destinado exclusivamente a fines educativos y personales.  
+Si deseas utilizar parte del contenido, comunícate con el autor a través de GitHub.
+
+Respeta el esfuerzo, apoya el conocimiento con créditos justos.
